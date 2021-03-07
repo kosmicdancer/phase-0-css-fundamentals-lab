@@ -1,5 +1,37 @@
 body {
-  width: 100%;
+  width: 80%;
   height: 100%;
-  margin: 0;
+  margin: auto;
+  text-align: center;
 }
+h1 {
+  text-align:center
+}
+nav {
+  width: fit-content;
+  background: grey;
+  text-align: center;
+  margin: auto;
+  padding: 5px;
+}
+
+#featured-property {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  font-size: smaller;
+}
+
+#details {
+  text-align: center;
+  background-color: red;
+  padding: 10px;
+  
+}
+
+div#details {
+  float: left;
+  width: 25%;
+}
+ 
+
